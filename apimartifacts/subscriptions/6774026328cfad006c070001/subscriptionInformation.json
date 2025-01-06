@@ -1,8 +1,0 @@
-{
-  "properties": {
-    "scope": "/subscriptions/ee8aa11d-63ce-44df-a2e9-35026390a338/resourceGroups/rg-apim-demo-dev/providers/Microsoft.ApiManagement/service/apim-jidemo-dev/products/starter",
-    "allowTracing": false,
-    "ownerId": "/subscriptions/ee8aa11d-63ce-44df-a2e9-35026390a338/resourceGroups/rg-apim-demo-dev/providers/Microsoft.ApiManagement/service/apim-jidemo-dev/users/1",
-    "state": "active"
-  }
-}
