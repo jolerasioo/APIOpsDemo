@@ -1,0 +1,6 @@
+apimServiceName: apim-jidemo-prod
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
