@@ -1,0 +1,17 @@
+{
+  "properties": {
+    "path": "echo",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "isCurrent": true,
+    "displayName": "Echo API",
+    "protocols": [
+      "https"
+    ],
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
